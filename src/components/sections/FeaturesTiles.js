@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Sell Your Business In An Instant',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'A Trusted Exiting Platform built on the Algorand Blockchain',
+    paragraph: 'On Exitor, a business owner can easily tokenize their business\' ownership stake, converting it into a verifiable and standardized digital asset backed by the Algorand Blockchain. The business owner can then do micro-listing, and an interested investor can opt-in via a smart contract'
   };
 
   return (
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Easy To Use
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+          We have architected a robust user dashboard that abstracts so much of the domain-focused expertise needed to interact with smart contracts, the blockchain and the consensus algorithms that run it. This is in mind to make any business owner or investor have a hurdle in order to transact on the platform
                     </p>
                 </div>
               </div>
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Truly Secure Platform
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+          All of the infrastructure behind the smart contracts as well as the transactions that power Exitor are ran on the Algorand Blockchain. The Algorand Blockchain is one of the few blockchains in the world that have a working solution for the blockhain trilemma, meaning that they run with full decentralization, high-level security and robust scalability, no sacrifices!
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Escrow Functionalities
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+          Before any deal between a business seller and an investor is finalized, all transactions needed to be made are held in a non-custodial stateless escrow smart contract. An investor puts their ALGOS in an escrow contract if interested, and the business seller can evaluate the offer before making a decision to sell
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Industry competing financial services
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+          With the core infrastructure of Exitor hosted on Algorand, transactions on the Exitor platform run at a speed of 1,000 TPS, with immediate transaction finality
                     </p>
                 </div>
               </div>
@@ -159,10 +159,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Quick Pre-Valuation Service
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+          We also offer pre-valuation of businesses interested with selling on Exitor, just to offer a clean bill of health and clarity to investors before making a listing
                     </p>
                 </div>
               </div>
@@ -181,10 +181,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Chartered DeFi
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+          With Algorand as a partner, their blockchain and financial tooling are already chartered and regulated. Algorand also boasts of a Sharia Compliance Certificate. By virtue of the later, Exitor uses decentralized finance(DeFi) technology that is audited and compliant by the needed industry standards 
                     </p>
                 </div>
               </div>

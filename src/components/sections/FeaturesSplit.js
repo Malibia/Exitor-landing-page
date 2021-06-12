@@ -70,10 +70,10 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Safe and Secured Transactions
+          Fast and Easy To Use Worflow
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Once you register with Exitor, you will be rendered to a dashboard where you need to set up your business profile. You then need to fill the business exiting form and upload the required documents for valuation as indictated on the form. Once finished, a listing of your business is effected, and will be posted under a unique hashed address to our pool of accredited investors
                   </p>
               </div>
               <div className={
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Peer To Peer Engagement
+                  Decentralized and Secure Storage
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Documents securely managed and store
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Your Business Documents are stored in decentralized servers and databases. Our web platform is also hosted under a decentralized protocol known as IPFS. This secures your data from Big Tech platforms and ensures our services are always available, no downtimes
                   </p>
               </div>
               <div className={
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Borderless Access
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+          Global Access, Decentralized Platform
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Exitor runs on a public blockchain, giving you access to connect with investors as well as business owners from anywhere in the world and across the web. No cross-border or location-specific hurdles when making transactions, and deals. No third parties or middlemen when finalizing agreements
                   </p>
               </div>
               <div className={
