@@ -88,9 +88,9 @@ const Hero = ({
                     Get Started
       </Button>
 {/* display the modal and pass props*/}
-	  <ModalDialog open={open} handleClose={handleClose} />
+{ModalDialog open={open} handleClose={handleClose} }
 	  </div>
-                  <Button tag="a" color="dark" wideMobile href="">
+                  <Button tag="a" color="dark" wideMobile href="https//github.com/kcelestinomaria">
                     View on Github
                     </Button>
                 </ButtonGroup>
