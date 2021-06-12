@@ -72,8 +72,8 @@ const Form = ({ handleClose }) => {
         variant="filled"
         type="email"
         required
-        value={email}
-        onChange={e => setEmail(e.target.value)}
+        value={businessemail}
+        onChange={e => setBusinessEmail(e.target.value)}
 	  />
 	  <TextField
         label="Business Phone Number"
