@@ -74,7 +74,8 @@ const FeaturesTiles = ({
                     Easy To Use
                     </h4>
                   <p className="m-0 text-sm">
-          We have architected a robust user dashboard that abstracts so much of the domain-focused expertise needed to interact with smart contracts, the blockchain and the consensus algorithms that run it. This is in mind to make any business owner or investor have a hurdle in order to transact on the platform
+          We have architected a robust user dashboard that abstracts so much of the domain-focused expertise needed to interact with smart contracts, the blockchain and the consensus algorithms that run it. This is in mind to make any business owner or investor to not have a hurdle in order to transact on the platform
+          Jump to the documentation if you need to understand some more.
                     </p>
                 </div>
               </div>

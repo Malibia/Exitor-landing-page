@@ -70,17 +70,11 @@ const FeaturesSplit = ({
                   Robust workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-<<<<<<< HEAD
-          Fast and Easy To Use Worflow
-                  </h3>
-                <p className="m-0">
-          Once you register with Exitor, you will be rendered to a dashboard where you need to set up your business profile. You then need to fill the business exiting form and upload the required documents for valuation as indictated on the form. Once finished, a listing of your business is effected, and will be posted under a unique hashed address to our pool of accredited investors
-=======
-                  Fast, Straightforward &amp; Standardized workflow
+            Fast, Easy To Use, and Coherent Worflow      
                   </h3>
                 <p className="m-0">
                   Set up your business profile, document your business exit plan, upload the required documents, and list your business, let Exitor deal with the rest. 
->>>>>>> 2f23ae8de3b3e2a5f57fd1bce6bb239f4c12f082
+                  For more detail, check our documentation at the starter page
                   </p>
               </div>
               <div className={
