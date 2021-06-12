@@ -26,15 +26,15 @@ const Hero = ({
     ...props
 }) => {
 
-	{/* declare a new state variable for modal open*/}
+	// declare a new state variable for modal open
     const [open, setOpen]  = useState(false);
 
-	{/* function to handle modal open*/}
+	// function to handle modal open
     const handleOpen = () => {
 	setOpen(true);
     };
 
-	{/* function to handle modal close*/}
+	// function to handle modal close
     const handleClose = () => {
 	setOpen(false);
     };
