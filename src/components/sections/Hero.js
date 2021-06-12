@@ -76,12 +76,11 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Sliq is a one-stop platform to sell your business or startup\'s ownership <span className="text-color-primary">stake</span>
+              <span className="text-color-primary">Exitor</span> - Business Exiting Platform
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-          Whether you want to sell your business, perform an exit from your venture or sell a stake of your startup, our platform enables you to do so cheaply and hassle-free
-                </p>
+          Want to exit from your business? Tokenize your business' ownership stake into a standard asset, perform a micro-listing, and get opt-in from interested accredited investors</p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
           <ButtonGroup>
 	  <div className="RegisterForm">
