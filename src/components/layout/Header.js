@@ -109,10 +109,10 @@ const Header = ({
                   <ul className={
                     classNames(
                       'list-reset text-xs',
-                      navPosition && `header-nav-${navPosition}`
+                      navPosition && `header-nav-${navPosition}
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Explore More</Link><!--Previously Documentation-->
+                      <Link to="#0" onClick={closeMenu}>Explore More</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
