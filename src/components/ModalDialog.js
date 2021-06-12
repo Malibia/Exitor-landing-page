@@ -4,9 +4,9 @@ import Form from './elements/Form';
 
 const ModalDialog = ({ open, handleClose }) => {
   return (
-    {/*// props received from App.js*/}
+    // props received from App.js
     <Dialog open={open} onClose={handleClose}>
-      // form to be created
+    {/* form to be created*/}
       <Form handleClose={handleClose} />
     </Dialog>
   );
